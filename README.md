@@ -18,7 +18,6 @@ media="(prefers-color-scheme: dark)"/>
 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
 <img src="https://github-readme-stats.vercel.app/api?username=ingritedaiane&show_icons=true"/>
 </picture>
-<p>
 <picture>
 <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ingritedaiane&layout=compact=true&theme=panda"/>
 <img src="https://github.com/ingritedaiane/github-readme-stats"/>
