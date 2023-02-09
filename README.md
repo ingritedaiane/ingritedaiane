@@ -23,7 +23,7 @@
 <div>
 <picture>
 <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ingritedaiane&layout=compact=true&theme=panda"/>
-  <img src="https://github.com/ingritedaiane/github-readme-stats"/>
+ <img src="https://github.com/ingritedaiane/github-readme-stats"/>
 </picture>
 </div><p>
 <div style="text-align: center”;>
