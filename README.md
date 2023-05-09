@@ -1,14 +1,14 @@
-<h1> Oii, e aí de boas?</h1>
+<h1> 👋 Oii, e aí de boas? | 👋 Hey how's it going? </h1>
 <div><ul>
-💻| Estou iniciando na carreira Font-End<br>
-👩‍💻| Estudando:
+💻| Estou iniciando na carreira Font-end | 🖥️ Front-end career beginner <br>
+👩‍🎨| Aspirante a UI Designer | 🎨 Aspiring to UI Designer <br>
+👩‍💻| Estudando e praticando | 📚 Studying and practicing :
 <div style="display: inline_block"><br>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
- 
-<br>🌎| A tecnologia move o mundo<br>
-🌱| Apaixonada pela natureza em todas as suas formas<p>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>   
+
 </div>
 <p><picture>
 <source srcset="https://github-readme-stats.vercel.app/api?username=ingritedaiane&show_icons=true&theme=panda"
