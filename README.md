@@ -7,7 +7,7 @@
 <hr>
 🦋 | Apaixonada pela natureza em todas as suas formas <br>
 🎧 | Saber ouvir e a minha melhor SoftSkill <br>
-⚖️ | Eclética e como definino minha personalidade<br>
+⚖️ | Eclética e como defino minha personalidade<br>
 <hr>
 <br>
 <br>
