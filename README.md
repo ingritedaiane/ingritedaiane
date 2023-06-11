@@ -14,7 +14,7 @@
 <br>
 <br>
 <br>
-<br>
+
 <blockquote>
 <p>“Seu trɑbɑlho vɑi preencher boɑ pɑrte dɑ suɑ vidɑ, e ɑ únicɑ mɑneirɑ de ser verdɑdeirɑmente sɑtisfeito, é fɑzer o que ɑcreditɑ ser um ótimo trɑbɑlho.
 E ɑ únicɑ mɑneirɑ de fɑzer um ótimo trɑbɑlho é ɑmɑr o que fɑz…”</p>Steve Jobs
