@@ -2,7 +2,7 @@
 
 <h1 align="left">Oii, e aí de boas? 👋</h1>
 Siim e Ingrite, com “te” no final ❤️
-<p align="left"> 👩🏽‍💻 | Desenvolvedora Front end em ascensão<br>
+<p align="left"> 👩🏽‍💻 | Desenvolvedora Front end <br>
   <hr>
 <hr>
 <br>
