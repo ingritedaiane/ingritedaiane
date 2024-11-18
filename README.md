@@ -9,8 +9,8 @@
   👩🏽‍💻 | Atualmente estou migrando de carreira, e quero conquistar o meu espaço como Desenvolvedora Front end. <br>
   <hr>
   Ser programador (a) e um status almejado por ser um trabalho flexível, rentável e evolutivo.
-  A demanda para esse mercado de trabalho exije algumas Soft Skills, as quais 3 delas eu possuo,
-  e que me fazem acreditar ter o "match quase perfeito" para essa aréa, sendo elas:<i> ser criativa, adptável e resolutiva.</b></i> 
+  A demanda para esse mercado de trabalho exige algumas Soft Skills, as quais 3 delas eu possuo,
+  e que me fazem acreditar ter o "match quase perfeito" para essa área, sendo elas:<i> ser criativa, adaptável e resolutiva.</b></i> 
   <br>
   <br>
   <br>
