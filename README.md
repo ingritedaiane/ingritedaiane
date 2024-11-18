@@ -21,7 +21,7 @@
     🎨 Figma <br>
     🧮 Git e GitHub <br>
     - loading...
-    🛠️ Framwoorks 
+    🛠️ Framworks 
   </blockquote>
   <br>
   <div align="center" >
