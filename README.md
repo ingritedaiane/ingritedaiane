@@ -8,21 +8,7 @@
   🗃️ | Auxiliar administrativo por 2 anos. <br>
   👩🏽‍💻 | Atualmente estou migrando de carreira, e quero conquistar o meu espaço como Desenvolvedora Front end. <br>
   <hr>
-  Ser programador (a) e um status almejado por ser um trabalho flexível, rentável e evolutivo.
-  A demanda para esse mercado de trabalho exige algumas Soft Skills, as quais 3 delas eu possuo,
-  e que me fazem acreditar ter o "match quase perfeito" para essa área, sendo elas:<i> ser criativa, adaptável e resolutiva.</b></i> 
-  <br>
-  <br>
-  <br>
-  <blockquote>Estou trabalhando nas Hard Skills fazendo a trilha Full-Stack da Rocketseat o qual ja adquirir conhecimentos com:<br>
-    🧩 HTML Semântico<br>
-    🪄 CSS <br>
-    ⚙️ JavaScript <br>
-    🎨 Figma <br>
-    🧮 Git e GitHub <br>
-    - loading...
-    🛠️ Framworks 
-  </blockquote>
+
   <br>
   <div align="center" >
     <a href="https://www.instagram.com/ingritedaiane">
