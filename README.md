@@ -10,6 +10,9 @@
   <hr>
 
   <br>
+  <br>
+  <br>
+  <br>
   <div align="center" >
     <a href="https://www.instagram.com/ingritedaiane">
     <img src="https://img.shields.io/static/v1?label=instagram&message=DEV da realidade e nem tô falando da virtual&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"></a>
